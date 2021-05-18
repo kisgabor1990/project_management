@@ -1,0 +1,13 @@
+.header {
+    height: 200px;
+    background: url('header.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.header h1 {
+    margin-left: 10%;
+}
+
+.menu a {
+    border: 0;
+}
